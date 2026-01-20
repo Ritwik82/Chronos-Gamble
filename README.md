@@ -31,4 +31,5 @@ Provide 30 consecutive correct predictions to the server.
 Capture the flag.
 
 🚩 Flag
+
 LNM{My$t3ry_s33d}
