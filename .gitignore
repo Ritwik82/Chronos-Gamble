@@ -3,3 +3,6 @@ ctf_env/
 venv/
 __pycache__/
 .DS_Store
+challenge.c
+solve.py
+ctf_env/
